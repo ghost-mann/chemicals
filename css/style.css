@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#carouselExampleIndicators {
+    width: 1600px;
+    height: 1050px;
+    /* Adjust as needed */
+}
