@@ -2,6 +2,7 @@
   "name": "chemicals",
   "version": "1.0.0",
   "dependencies": {
-    "mdb-ui-kit": "^7.1.0"
+    "mdb-ui-kit": "^7.1.0",
+    "mdbootstrap": "^4.20.0"
   }
 }
